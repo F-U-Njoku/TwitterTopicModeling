@@ -35,3 +35,6 @@ Since Twitter has been available for the past thirteen years, it contains histor
 different topics and hence can be used for a track historic trends in different fields.
 In this work, we will be mining Nigerian Health Twitter data for the past five years to
 derive different topic and possible trends using topic modelling.
+
+## Topics using LDA
+### 
