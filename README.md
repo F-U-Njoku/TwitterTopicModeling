@@ -39,3 +39,5 @@ derive different topic and possible trends using topic modelling.
 ## Topics using LDA
 * 2015 - Ebola outbreak
 <img src="images/2015twittertopic.png" style="width:500px">
+* 2016 - Lasser fever outbreak
+<img src="images/2016twittertopic.png" style="width:500px">
