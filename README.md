@@ -37,11 +37,14 @@ In this work, we will be mining Nigerian Health Twitter data for the past five y
 derive different topic and possible trends using topic modelling.
 
 ## Topics using LDA
-* 2015 - **Ebola outbreak**
+* **2015: Ebola outbreak**
 <img src="images/2015twittertopic.png" style="width:500px">
-* 2016 - **Lasser fever outbreak**
+
+* **2016: Lasser fever outbreak**
 <img src="images/2016twittertopic.png" style="width:500px">
-* **2017 - Meningitis outbreak**
+
+* **2017: Meningitis outbreak**
 <img src="images/2017twittertopic.png" style="width:500px">
-* **2018 - cHILD immunization**
+
+* **2018: Child immunization**
 <img src="images/2018twittertopic.png" style="width:500px">
