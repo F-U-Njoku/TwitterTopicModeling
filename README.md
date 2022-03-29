@@ -41,3 +41,5 @@ derive different topic and possible trends using topic modelling.
 <img src="images/2015twittertopic.png" style="width:500px">
 * 2016 - Lasser fever outbreak
 <img src="images/2016twittertopic.png" style="width:500px">
+* 2017 - Meningitis outbreak
+<img src="images/2017twittertopic.png" style="width:500px">
