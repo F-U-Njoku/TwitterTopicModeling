@@ -37,4 +37,4 @@ In this work, we will be mining Nigerian Health Twitter data for the past five y
 derive different topic and possible trends using topic modelling.
 
 ## Topics using LDA
-### 
+* <img src="images/2015twittertopic.png" style="width:500px">
