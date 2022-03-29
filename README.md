@@ -48,3 +48,10 @@ derive different topic and possible trends using topic modelling.
 
 * **2018: Child immunization**
 <img src="images/2018twittertopic.png" style="width:500px">
+
+## Citation
+Njoku, Uchechukwu Fortune. Text Mining of Twitter Data: Topic Modelling. Master's Thesis. 2019.
+
+[Document link](http://repository.aust.edu.ng/xmlui/bitstream/handle/123456789/4905/Njoku%20Fortune.pdf?sequence=1&isAllowed=y).
+
+[Colab notebook](https://colab.research.google.com/drive/1FXsH21aNIRvn_UN3dpEjpPupzt82pCXV?authuser=1#scrollTo=M1LWant14Iar).
